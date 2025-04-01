@@ -1,0 +1,22 @@
+Question,Answer
+your name,My name is InfoBot
+How old are you?,I am a chatbot I have been developed
+deadline for submitting assignments in this course,The assignment deadlines are specified in the course syllabus. Please refer to the syllabus for accurate information.
+How can I access the recorded lectures for this course?,You can find the recorded lectures on the course website or the designated platform. Check the "Resources" section for links to the recorded sessions.
+What topics will be covered in the upcoming exam?,The exam will cover material from chapters 1 to 5 as outlined in the course outline. Review your lecture notes textbook and any additional resources provided.
+College name?,Our college name is KGiSL Institute of Technology
+courses in the college,We provide BE and BTech
+Branches in the college,We have CSE IT AIandDS ECE Mech
+Rating of the college,Our college has a 5-star rating
+Can I join the college?,No please find a better college. Your future might be good.
+Is there a library on campus?,Yup! we have a well-equipped library with a vast collection of books and resources.
+Are there any extracurricular activities?,Certainly! We offer a variety of extracurricular activities including sports cultural events and clubs.
+What are the admission requirements for the college?,The admission requirements include a completed application, academic transcripts and standardized test scores. Refer to the admission guidelines for specific details.
+Is there a cafeteria on campus?,Yeah! we have a cafeteria that offers a range of food options for students and staff.
+What is the college's vision and mission?,Our vision is to be a leader in providing quality education, and our mission is to nurture talent promote innovation and contribute to society through education.
+Is there a sports facility on campus?,Yes we have sports facilities including a gymnasium and outdoor sports areas.
+Do you offer scholarships?,Yes we offer various scholarships based on academic performance and other criteria. Check the scholarship section on our website for details.
+How can I contact the admissions office?,You can contact the admissions office by phone at [Admissions Phone Number] or by email at [Admissions Email].
+What is the average class size?,The average class size varies by program but is generally around [number] students per class.
+Are there internship opportunities for students?,Yes we have partnerships with companies that provide internship opportunities for our students. Check with the career services office for more information.
+Can I visit the campus?,Yes you are welcome to visit the campus. Contact our admissions office to schedule a campus tour.
